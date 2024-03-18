@@ -3,6 +3,7 @@ Bro, I am requesting you please consider my profile, I have done hardwork for it
 I know its an not good way to talk, but I don't have any other option.
 
 thanks for checking the query, hope to good result.
+Please give it a one chance man!!
 
 WITH
   cte1 AS (
